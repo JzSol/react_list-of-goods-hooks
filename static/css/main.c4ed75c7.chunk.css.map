@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAUC,2EAHD","file":"main.c4ed75c7.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n$gradient: linear-gradient(\n  87.4deg,\n  rgb(255, 241, 165) 1%,\n  rgb(200, 125, 76) 49.7%,\n  rgb(83, 54, 54) 100.5%\n);\n\nbody {\n  background: $gradient;\n}\n"]}
